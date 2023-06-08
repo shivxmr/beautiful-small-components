@@ -2,6 +2,7 @@ This repository is created so as to directly import components whenever I am cre
 
 
 
+![Current State](https://github.com/shivxmr/beautiful-small-components/blob/master/src/images/image.jpg)
 
 
 
