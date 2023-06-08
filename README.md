@@ -1,3 +1,10 @@
+This repository is created so as to directly import components whenever I am creating a bigger project. React version of components are added here from the projects I liked on CodePen. For reference I have added the CodePen link in .jsx file of each code.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
